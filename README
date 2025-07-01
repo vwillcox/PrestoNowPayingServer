@@ -1,10 +1,12 @@
 # Running this
+
 Please visit https://blog.talktech.info/perfecting-a-pimoroni-presto-project for all the information
 
 ## Getting the code to the Presto:
+
 	Save the presto code to your Presto using a tool like Thonny. Save the file as main.py if you would like to to run on startup of the device.
     
-== Running the PC server code:
+## Running the PC server code:
 
 Clone the following repository and follow the instructions:
 <pre language-bash>
