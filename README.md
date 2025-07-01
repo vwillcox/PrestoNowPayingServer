@@ -25,11 +25,11 @@ Now install the Presto Code to your Presto using Thonny and run
 Play some media on your PC (Youtube, Spotify etc) and the item should show on your Presto.
 If it does not you need to install one more component
 
-####ARCH Based Linux
+#### ARCH Based Linux
 <pre language-bash>
 <code>sudo pacman -S playerctl</code>
 </pre>
-####Debian Based Linux
+#### Debian Based Linux
 <pre language-bash>
 <code>sudo apt install -y playerctl</code>
 </pre>
