@@ -4,7 +4,7 @@ Please visit https://blog.talktech.info/perfecting-a-pimoroni-presto-project for
 
 ## Getting the code to the Presto:
 
-	Save the presto code to your Presto using a tool like Thonny. Save the file as main.py if you would like to to run on startup of the device.
+Save the presto code to your Presto using a tool like Thonny. Save the file as main.py if you would like to to run on startup of the device.
     
 ## Running the PC server code:
 
