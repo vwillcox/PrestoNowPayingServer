@@ -1,6 +1,6 @@
 # Running this
 
-Please visit https://blog.talktech.info/perfecting-a-pimoroni-presto-project for all the information
+Please visit https://blog.talktech.info/home/perfecting-a-pimoroni-presto-project for all the information
 
 ## Getting the code to the Presto:
 
